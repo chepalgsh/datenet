@@ -2,9 +2,9 @@
 
 <p align="center">This extension is designed to enhance your online dating experience by providing a range of powerful features for customizing and optimizing your swiping activities on Tinder!!!</p>
 
-<p align="center"> <strong> How to Get the Extension </strong> </p>
-<p align="center"> DM me on telegram if you want thi extension --
-<a href="https://t.me/chepalgsh26">t.me/chepalgsh26</a>... 📲 </p>
+</h2> align="center"> <strong> How to Get the Extension </strong> </h2>
+-- ** DM me on telegram if you want this extension --
+<a href="https://t.me/chepalgsh26">t.me/chepalgsh26</a>... 📲 </p> ** 
 
 <h2 align="center"> Features: </h2>
 
