@@ -1,5 +1,6 @@
-![datenet-features](https://github.com/chepalgsh/datenet/assets/67635401/2e71204f-43cb-4be7-bd2f-456b3ac9d330)
-![datenet-swiping](https://github.com/chepalgsh/datenet/assets/67635401/2bd8ad2b-c5ca-4e52-b8f0-3dc88cdf99ac)
+![datenet-features](https://github.com/chepalgsh/datenet/assets/67635401/99f4b097-e9cc-4be1-b0aa-263b060f5419)
+![datenet-swiping](https://github.com/chepalgsh/datenet/assets/67635401/9cb88d81-aee6-436b-b771-8d54dc0ace20)
+
 <h1 align="center"> DATENET - TINDER SWIPING BOT (WEB EXTENSION) </h1>
 
 <p align="center">This extension is designed to enhance your online dating experience by providing a range of powerful features for customizing and optimizing your swiping activities on Tinder!!!</p>
