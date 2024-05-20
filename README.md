@@ -1,4 +1,4 @@
-<h1 align="center"> ⬆️ DATENET - Tinder Automation Bot (WEB EXTENSION) ⬆️ </h1>
+<h1 align="center"> 🔁 DATENET - Tinder Automation Bot (WEB EXTENSION) </h1>
 
 <p align="center">This extension is designed to enhance your online dating experience by providing a range of powerful features for customizing and optimizing your swiping activities on Tinder!!!</p>
 
