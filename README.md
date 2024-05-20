@@ -6,7 +6,7 @@
 
 - https://t.me/chepalgsh26
 
-<h2 align="center">👀 Functionality: </h2>
+<h2 👀 Functionality: </h2>
 
 - **Swipe Management** 💫
   - **Unlimited Amounts of Swipes Per Day:** Enjoy unlimited swiping without any restrictions... 🔄
@@ -36,6 +36,6 @@
   - **Change Location:** Manually set or change your location to explore matches in different areas... 🗺️
   - **Distance Calculation When Only City Name Is Available:** Calculate distances even when only the city name is provided... 🌆
 
-<h2 align="center"> ⚙️ Additional Features: </h2>
+<h2 ⚙️ Additional Features: </h2>
 
 - **Image Blocking:** Block images to reduce load on your proxies... 🚫🖼️
