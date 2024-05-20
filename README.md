@@ -2,11 +2,11 @@
 
 <p align="center">This extension is designed to enhance your online dating experience by providing a range of powerful features for customizing and optimizing your swiping activities on Tinder!!!</p>
 
-<h2 align="center"> How to Get the Extensions: </h2>
+<h2 id="contact"> 💬 Contact</h2>
 
-- ** DM me on telegram if you want this extension -- <a href="https://t.me/chepalgsh26">@chepalgsh26</a> 📲 </p> ** 
+- https://t.me/chepalgsh26
 
-<h2 align="center"> Features: </h2>
+<h2 align="center">👀 Functionality: </h2>
 
 - **Swipe Management** 💫
   - **Unlimited Amounts of Swipes Per Day:** Enjoy unlimited swiping without any restrictions... 🔄
@@ -36,6 +36,6 @@
   - **Change Location:** Manually set or change your location to explore matches in different areas... 🗺️
   - **Distance Calculation When Only City Name Is Available:** Calculate distances even when only the city name is provided... 🌆
 
-<h2 align="center"> Additional Features: </h2>
+<h2 align="center"> ⚙️ Additional Features: </h2>
 
 - **Image Blocking:** Block images to reduce load on your proxies... 🚫🖼️
